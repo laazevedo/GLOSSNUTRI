@@ -13,30 +13,33 @@ Programador de software:
 Larissa Santos Azevedo
 
 Profissionais nutricionistas:
-Alyne Barbosa de Castilho (CRN 1 4732)
+Alyne Barbosa de Castilho (CRN 1 4732)],
 Gislene Batista Lima (CRN 1 4728)
 
 Surdos e ouvintes atuantes na compilação do corpus e validação:
-Aline
-Cristiane
-Diego
-Flávia
-Geovana
-Janaína
-Jaqueline
-Luana
-Luciana
-Núbia
-Renata
+Aline,
+Cristiane,
+Diego,
+Flávia,
+Geovana,
+Janaína,
+Jaqueline,
+Luana,
+Luciana,
+Núbia,
+Renata,
 Wellington Tadeu
 
 Surdos atuantes na filmagem:
-Maísa Conceição Silva
+Maísa Conceição Silva,
 Vinícius Rodrigues da Silva
 
 CONTATO
 Você pode enviar sinais-termos na área da nutrição para estes contatos:
+
 E-mail: glossnutri1@gmail.com
 Telefone e WhatsApp: (62) 981835222
+
 Para informações sobre o software:
+
 E-mail: larissaazevedo@inf.ufg.br
