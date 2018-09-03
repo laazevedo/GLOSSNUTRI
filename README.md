@@ -1,6 +1,6 @@
 # GLOSSNUTRI
 
-O **GLOSSNUTRI** é um modelo de um miniglissário terminográfico e sinalizado em nutrição, que contém sinais-termos da área nutricional.
+O **GLOSSNUTRI** é um glossário terminográfico e sinalizado em nutrição, que contém sinais-termos da área nutricional.
 
 Baixe [aqui](https://github.com/laazevedo/GLOSSNUTRI/releases)! 
 
