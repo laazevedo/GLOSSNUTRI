@@ -4,7 +4,7 @@ O **GLOSSNUTRI** é um glossário terminográfico e sinalizado em nutrição, qu
 
 Baixe [aqui](https://github.com/laazevedo/GLOSSNUTRI/releases)! 
 
-O GLOSSNUTRI foi elaborado Ma.Vilma Rodrigues Cardoso no ano de 2017, e contou
+O GLOSSNUTRI foi elaborado Ma. Vilma Rodrigues Cardoso no ano de 2017, e contou
 com alguns participantes e profissionais na sua organização. É resultado de uma
 dissertação de mestrado, sob orientação do Prof. Dr. René Gottlieb Strehler, referente
 programa de Estudos da Tradução da Universidade de Brasília (UnB).
